@@ -1,5 +1,7 @@
 # next-counter
 
+A hopelessly over-engineered counter app for testing.
+
 ## Getting Started
 
 First, run the development server:
